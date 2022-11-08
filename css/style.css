@@ -91,7 +91,8 @@ h4{
   width: 430px;
 }
 .about-text{
-  width: 550px;
+  width: 450px;
+  padding-left: 40px;
 }
 .main{
   width: 1130px;
